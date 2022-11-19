@@ -17,3 +17,9 @@ La explicación más detallada y las conclusiones están al final de cada notebo
 
 Utilicé la novela EL Señor de los Anillos para entrenar el modelo de próxima palabra.
 La explicación más detallada y las conclusiones están al final del notebook.
+
+## DESAFÍO 5
+
+Utilicé RNN (LSTM) para categorizar reseñas. Probé con embeddings sin entrenar y preentrenados. 
+El objetivo es lograr una accuracy entre 0.50 y 0.70 en validación.
+La explicación más detallada y las conclusiones están al final del notebook.
