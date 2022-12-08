@@ -1,5 +1,18 @@
 # NLP
 
+El procesamiento de lenguaje natural, o NLP (por sus siglas en inglés referentes a Natural Language Processing), 
+corresponde a una rama de ciencias de la cimputación, más específicamente al apartado de inteligencia artificial, 
+la cual se encarga de otorgale a las computadoras la abilidad de interpretar texto y palabras habladas de una manera
+muy similar a la que las personas la entendemos.
+
+Este es un repositorio del curso de NLP correspondiente a la Especialización en Inteligencia Artificial de la 
+Universidad de Buenos Aires. A continuación, enumero los 6 desafíos que me fueron planteados a lo largo de la cursada, explicados brevemente. La resolución de los mismos con las conclusiones correspondiente se encuentran en esta misma carpeta.
+
+## DESAFÍO 1
+
+En este desafío, creé funciones de conceptos básicos de NLP, como una función que obtenga el vocabulario, 
+otra transforme a OHE una lista, otra que transforme una matriz TF-IDF, entre otras.
+
 ## DESAFÍO 2
 
 Programé un bot basado en reglas. Lo diseñé para una tienda que vende café. 
