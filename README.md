@@ -1,7 +1,7 @@
 # NLP
 
 El procesamiento de lenguaje natural, o NLP (por sus siglas en inglés referentes a Natural Language Processing), 
-corresponde a una rama de ciencias de la cimputación, más específicamente al apartado de inteligencia artificial, 
+corresponde a una rama de ciencias de la computación, más específicamente al apartado de inteligencia artificial, 
 la cual se encarga de otorgale a las computadoras la abilidad de interpretar texto y palabras habladas de una manera
 muy similar a la que las personas la entendemos.
 
