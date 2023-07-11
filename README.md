@@ -37,7 +37,7 @@ Utilicé RNN (LSTM) para categorizar reseñas. Probé con embeddings sin entrena
 El objetivo es lograr una accuracy entre 0.50 y 0.70 en validación.
 La explicación más detallada y las conclusiones están al final del notebook.
 
-### DESAFÍO 6
+## DESAFÍO 6
 
 Utilicé un esquema encoder-decoder para entrenar un bot.
 La explicación más detallada y las conclusiones están al final del notebook.
